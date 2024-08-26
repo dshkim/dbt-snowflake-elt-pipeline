@@ -1,1 +1,1 @@
-# dbt-snowflake-etl-pipeline
+# dbt-snowflake-elt-pipeline
